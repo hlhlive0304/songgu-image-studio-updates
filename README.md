@@ -9,7 +9,7 @@ API 密钥、固定前后词、提示词、参考图片、作品和任务数据�
 
 ## 下载与更新
 
-首次安装请从 [最新版本](../../releases/latest) 下载 Windows 便携包并解压后运行。
+首次安装请从 [最新版本](https://github.com/hlhlive0304/songgu-image-studio-updates/releases/latest) 下载 Windows 便携包并解压后运行。
 已有在线更新版的用户，后续直接在软件内更新。
 
 更新清单：`https://github.com/hlhlive0304/songgu-image-studio-updates/releases/latest/download/update.json`
